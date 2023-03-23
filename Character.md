@@ -41,6 +41,7 @@
 ## Spells
 
 - *Bolt* (2 PP) - 2d6 damage, range of 12 feet.
+- *Deflection* (2+ PP): Create a magical shield that can deflect incoming attacks.
 - *Detect Arcana* (2 PP) - Reveals presence of magic within 10 feet.
 
 **Power Points**: 10
