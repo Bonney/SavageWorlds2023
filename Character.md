@@ -1,5 +1,7 @@
 # Kaelin Hillcrest
 
+[Character Sheet](https://github.com/Bonney/SavageWorlds2023/blob/main/Sheet.md)
+
 ## Attributes
 
 - Agility:	d6
