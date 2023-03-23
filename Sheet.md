@@ -39,8 +39,11 @@
 
 ## Spells
 
-- *Bolt* (2 PP) - 2d6 damage, range of 12 feet.
-- *Deflection* (2+ PP): Create a magical shield that can deflect incoming attacks.
-- *Detect Arcana* (2 PP) - Reveals presence of magic within 10 feet.
+*Spellcasting cost formula:*
+(Spellcasting Roll) - (PP Cost / 2) - (1 * Each other Spell being maintained)
+
+- *Bolt* (Spell Cost: 2) - 2d6 damage, range of 12 feet.
+- *Deflection* (Spell Cost: 2+): Create a magical shield that can deflect incoming attacks.
+- *Detect Arcana* (Spell Cost: 2) - Reveals presence of magic within 10 feet.
 
 **Power Points**: 10
