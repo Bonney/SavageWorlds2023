@@ -57,9 +57,7 @@ Kaelin is a reluctant wizard who yearns for the physical prowess of his family. 
 
 Growing up, Kaelin idolized his father and uncles and dreamed of becoming a physical fighter like them. However, as he entered his teens, he began to display magical abilities, much to his dismay. His mother, who came from a magical family, was overjoyed at the news and urged him to attend the local magic academy.
 
-Despite his reluctance, Kaelin attended the academy and began studying magic. However, he struggled to keep up with his studies and often skipped classes to go on mercenary missions with his family and friends. Kaelin found solace in the thrill of battle and often felt out of place at the academy.
-
-Now, as a novice wizard, Kaelin continues to train in magic while also taking on mercenary missions whenever possible. He is torn between his desire to please his mother and his longing for the physicality of his family's trade. Kaelin knows he must find a way to reconcile these two parts of his identity if he is to find true fulfillment in life.
+Kaelin's mother was determined to see her son hone his magical abilities, and so she sent him to a prestigious college on the eastern side of the continent. Kaelin spent a year there studying magic, but he struggled to adapt to the new environment and often found himself longing for home. Now, he is back for a "year abroad," and his uncle, who shares his mother's magical traits, has been tasked with keeping Kaelin sharp. Kaelin's uncle works for the local mercenary guild and is always ready for an adventure. Kaelin is excited to be home and back in the thick of things, but he knows that his uncle's zany ways will keep him on his toes.
 
 ## Skills
 
