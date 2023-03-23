@@ -1,4 +1,4 @@
-# Notes
+# Prompt for ChatGPT
 
 Character for a Savage Worlds tabletop game campaign in a fantasy setting.
 
