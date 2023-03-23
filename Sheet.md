@@ -1,6 +1,4 @@
-# Character Sheet
-
-# Kaelin Hillcrest
+# Kaelin Hillcrest Character Sheet
 
 ## Attributes
 
