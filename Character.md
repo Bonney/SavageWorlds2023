@@ -22,6 +22,16 @@ Despite his lack of interest in magic, Kaelin has still managed to pick up a few
 
 ## Family
 
+###  Uncle Jarek
+
+*Travelling companion NPC.*
+
+Kaelin's uncle, Jarek, was always the black sheep of the family. He inherited his mother's magical abilities but never had much interest in pursuing a career in magic. Instead, he became a mercenary and joined the local guild, where he quickly gained a reputation for being one of the most daring and unpredictable fighters in the region.
+
+Jarek is a charismatic and outgoing man, with a quick wit and an irreverent sense of humor. He has a knack for getting himself and others into trouble, but he always manages to come out on top. espite his reputation for being a wild card, Jarek is a skilled and competent mage. He has a deep knowledge of magical theory and can cast a variety of spells with ease.
+
+Despite his gruff demeanor, he has taken it upon himself to mentor Kaelin, recognizing the young man's potential and wishing to pass on his knowledge to the next generation. He has made it his mission to keep Kaelin up to date with his studies and magical knowledge, even if he grumbles and complains about it.
+
 ### Marcus
 
 Kaelin's father, Marcus, comes from a long line of physical fighters and mercenaries. For generations, his family has been renowned for their martial prowess, with many of his ancestors serving as swordsmen, brutes, and other forms of warriors. Marcus was no exception, and from a young age, he showed a natural talent for combat.
@@ -33,11 +43,3 @@ Despite his impressive fighting skills, Marcus was not content to rest on his fa
 Kaelin's mother, Althea, comes from a family with a long and storied history of magical ability. However, for several generations, the magic in their bloodline had not manifested, and Althea herself had almost no magical talent to speak of. Despite this, Althea remained fascinated by magic and studied it extensively throughout her youth.
 
 When Kaelin began showing signs of magical ability, Althea was overjoyed. She saw in him the potential to carry on their family's magical legacy, and urged her son to persue magic and learn everything he could.
-
-###  Uncle Jerek
-
-Kaelin's uncle, Jarek, was always the black sheep of the family. He inherited his mother's magical abilities but never had much interest in pursuing a career in magic. Instead, he became a mercenary and joined the local guild, where he quickly gained a reputation for being one of the most daring and unpredictable fighters in the region.
-
-Jarek is a charismatic and outgoing man, with a quick wit and an irreverent sense of humor. He has a knack for getting himself and others into trouble, but he always manages to come out on top. espite his reputation for being a wild card, Jarek is a skilled and competent mage. He has a deep knowledge of magical theory and can cast a variety of spells with ease.
-
-Despite his gruff demeanor, he has taken it upon himself to mentor Kaelin, recognizing the young man's potential and wishing to pass on his knowledge to the next generation. He has made it his mission to keep Kaelin up to date with his studies and magical knowledge, even if he grumbles and complains about it.
