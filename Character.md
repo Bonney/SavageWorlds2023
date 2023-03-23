@@ -62,3 +62,19 @@ Kaelin's mother was determined to see her son hone his magical abilities, and so
 ## Skills
 
 Despite his lack of interest in magic, Kaelin has still managed to pick up a few spells and has a basic understanding of magical theory. He is skilled in hand-to-hand combat and is proficient with a sword. Kaelin also has experience working as a mercenary and has developed skills in tracking, survival, and negotiation.
+
+## Family
+
+### Athena
+
+Kaelin's mother, Althea, comes from a family with a long and storied history of magical ability. However, for several generations, the magic in their bloodline had not manifested, and Althea herself had almost no magical talent to speak of. Despite this, Althea remained fascinated by magic and studied it extensively throughout her youth.
+
+When Kaelin began showing signs of magical ability, Althea was overjoyed. She saw in him the potential to carry on their family's magical legacy, and urged her son to persue magic and learn everything he could.
+
+###  Uncle Jerek
+
+Kaelin's uncle, Jarek, was always the black sheep of the family. He inherited his mother's magical abilities but never had much interest in pursuing a career in magic. Instead, he became a mercenary and joined the local guild, where he quickly gained a reputation for being one of the most daring and unpredictable fighters in the region.
+
+Jarek is a charismatic and outgoing man, with a quick wit and an irreverent sense of humor. He has a knack for getting himself and others into trouble, but he always manages to come out on top. Jarek is fiercely loyal to his family and friends, but he has a devil-may-care attitude that sometimes makes him difficult to trust.
+
+Despite his reputation for being a wild card, Jarek is a skilled fighter and a competent mage. He has a deep knowledge of magical theory and can cast a variety of spells with ease. However, he prefers to rely on his physical prowess and often eschews magic in favor of his trusty sword. Jarek sees himself as a free spirit, unbound by rules or restrictions, and he encourages Kaelin to embrace his own rebellious streak.
